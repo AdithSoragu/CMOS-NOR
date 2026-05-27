@@ -270,20 +270,6 @@ CMOS NOR gates are widely used in:
 
 ---
 
-# 📚 Learning Outcomes
-
-Through this project, the following concepts were learned:
-
-- CMOS Logic Design
-- PMOS/NMOS Operation
-- Cadence Virtuoso Usage
-- Transistor-Level Schematic Design
-- Transient Simulation
-- Waveform Analysis
-- VLSI Design Fundamentals
-
----
-
 # 👨‍💻 Author
 
 ## Adith Soragu
