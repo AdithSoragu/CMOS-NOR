@@ -204,18 +204,6 @@ The design includes:
 
 ---
 
-# 🧪 Testbench Design
-
-The testbench includes:
-- Pulse voltage sources for inputs
-- Power supply source
-- Capacitive load
-- Output measurement node
-
-The transient simulation verifies the logic functionality of the NOR gate.
-
----
-
 # ⚡ Advantages of CMOS NOR Design
 
 - Low power consumption
