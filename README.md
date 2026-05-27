@@ -91,9 +91,6 @@ A = 1 or B = 1
 
 the output becomes LOW.
 
-
-
-
 ---
 
 # ⚙️ Software and Tools Used
