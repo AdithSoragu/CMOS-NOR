@@ -187,21 +187,6 @@ Output = 0
 ```text
 Output = 0
 ```
-
----
-
-# 🧩 Schematic Design
-
-The CMOS NOR schematic was designed using:
-- PMOS transistor series connection
-- NMOS transistor parallel connection
-
-The design includes:
-- VDD connection
-- VSS grounding
-- Input terminals A and B
-- Output terminal VOUT
-
 ---
 
 # ⚡ Advantages of CMOS NOR Design
