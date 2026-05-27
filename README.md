@@ -65,17 +65,7 @@ The CMOS NOR gate consists of:
 - Two PMOS transistors connected in series
 - Two NMOS transistors connected in parallel
 
----
 
-# 📌 PMOS Network
-
-The PMOS pull-up network connects:
-- Output to VDD
-
-The output becomes HIGH only when:
-```text
-A = 0 and B = 0
-```
 
 ---
 
