@@ -66,21 +66,6 @@ The CMOS NOR gate consists of:
 - Two NMOS transistors connected in parallel
 
 
-
----
-
-# 📌 NMOS Network
-
-The NMOS pull-down network connects:
-- Output to Ground (VSS)
-
-If any input becomes HIGH:
-```text
-A = 1 or B = 1
-```
-
-the output becomes LOW.
-
 ---
 
 # ⚙️ Software and Tools Used
