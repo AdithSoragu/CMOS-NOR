@@ -230,22 +230,6 @@ The waveform verifies:
 
 ---
 
-# 📈 Waveform Observation
-
-The simulation waveform shows:
-- Input A waveform
-- Input B waveform
-- Output VOUT waveform
-
-The output remains HIGH only when:
-```text
-A = 0 and B = 0
-```
-
-which confirms correct NOR gate functionality.
-
----
-
 # ⚡ Advantages of CMOS NOR Design
 
 - Low power consumption
