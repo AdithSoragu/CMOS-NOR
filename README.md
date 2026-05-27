@@ -216,20 +216,6 @@ The transient simulation verifies the logic functionality of the NOR gate.
 
 ---
 
-# 📊 Simulation Analysis
-
-Transient analysis was performed using:
-```text
-ADE L + Spectre Simulator
-```
-
-The waveform verifies:
-- Correct NOR logic operation
-- Proper output transitions
-- CMOS switching behavior
-
----
-
 # ⚡ Advantages of CMOS NOR Design
 
 - Low power consumption
