@@ -304,5 +304,3 @@ The project can be extended by adding:
 Electronics and Communication Engineering
 
 ---
-
-
