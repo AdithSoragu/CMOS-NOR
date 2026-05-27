@@ -91,19 +91,8 @@ A = 1 or B = 1
 
 the output becomes LOW.
 
----
 
-# 📂 Project Structure
 
-```text
-CMOS_NOR_Gate/
-│
-├── NOR_schematic.png         # CMOS NOR Schematic
-├── testbench.png             # Testbench Circuit
-├── waveform_output.png       # Simulation Waveforms
-├── cadence_files/            # Cadence Project Files
-└── README.md                 # Documentation
-```
 
 ---
 
