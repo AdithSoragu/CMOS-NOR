@@ -186,8 +186,8 @@ Output = 0
 
 ```text
 Output = 0
+
 ```
----
 
 # ⚡ Advantages of CMOS NOR Design
 
