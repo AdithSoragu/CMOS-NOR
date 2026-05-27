@@ -284,19 +284,6 @@ Through this project, the following concepts were learned:
 
 ---
 
-# 🔮 Future Enhancements
-
-The project can be extended by adding:
-
-- Layout Design
-- DRC and LVS Verification
-- Power Analysis
-- Delay Analysis
-- Multi-input NOR Gate Design
-- CMOS NAND/NOR Combination Circuits
-
----
-
 # 👨‍💻 Author
 
 ## Adith Soragu
