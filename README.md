@@ -41,7 +41,6 @@ The major objectives of this project are:
 - Learn VLSI schematic design workflow
 
 ---
-
 # 🧠 Introduction to CMOS NOR Gate
 
 A NOR gate is a universal digital logic gate whose output becomes HIGH only when all inputs are LOW.
