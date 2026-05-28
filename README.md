@@ -57,7 +57,6 @@ A NOR gate is a universal digital logic gate whose output becomes HIGH only when
 | 1 | 1 | 0 |
 
 ---
-
 # 🏗️ CMOS NOR Gate Architecture
 
 The CMOS NOR gate consists of:
