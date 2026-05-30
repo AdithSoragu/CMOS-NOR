@@ -26,7 +26,6 @@ The project focuses on:
 - Transient simulation
 - Waveform analysis
 - VLSI design fundamentals
-
 ---
 
 # 🎯 Objectives
